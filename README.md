@@ -9,7 +9,7 @@
 - Selenium WebDriver
 - Requests
 - Allure
-- GitHub Actions (CI)
+- GitHub Actions (CI) (в разработке)
 
 ## Установка и запуск
 
